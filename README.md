@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# this is me playing with D3 in react
+
+* https://www.youtube.com/watch?v=_8V5o2UHG0E
+
+
+# This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
